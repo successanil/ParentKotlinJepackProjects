@@ -1,5 +1,8 @@
 # ParentKotlinJetpackProjects
 Parent Repository for Jetpack Projects
 
-
-<a href="https://github.com/successanil/PlayingVideoJP">PlayingVideoJP</a>
+<ul>
+  <li>
+  <a href="https://github.com/successanil/PlayingVideoJP">PlayingVideoJP</a>
+  </li>
+ </ul>
