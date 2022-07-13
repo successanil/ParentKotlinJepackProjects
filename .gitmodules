@@ -1,3 +1,6 @@
 [submodule "PlayingVideoJP"]
 	path = PlayingVideoJP
 	url = git@github.com:successanil/PlayingVideoJP.git
+[submodule "KotlinLoginJPC"]
+	path = KotlinLoginJPC
+	url = git@github.com:successanil/KotlinLoginJPC.git
