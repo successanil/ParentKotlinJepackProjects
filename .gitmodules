@@ -4,3 +4,6 @@
 [submodule "KotlinLoginJPC"]
 	path = KotlinLoginJPC
 	url = git@github.com:successanil/KotlinLoginJPC.git
+[submodule "ComposeLogin"]
+	path = ComposeLogin
+	url = git@github.com:successanil/ComposeLogin.git
