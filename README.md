@@ -8,4 +8,7 @@ Parent Repository for Jetpack Projects
   <li>
     <a href="https://github.com/successanil/KotlinLoginJPC.git">KotlinLoginJPC</a>
   </li>
+  <li>
+    <a href="https://github.com/successanil/ComposeLogin.git">ComposeLogin</a>
+  </li>
  </ul>
