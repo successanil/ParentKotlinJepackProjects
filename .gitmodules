@@ -7,3 +7,6 @@
 [submodule "ComposeLogin"]
 	path = ComposeLogin
 	url = git@github.com:successanil/ComposeLogin.git
+[submodule "KotlinHiltDemo"]
+	path = KotlinHiltDemo
+	url = git@github.com:successanil/KotlinHiltDemo.git
