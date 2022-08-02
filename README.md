@@ -1,5 +1,5 @@
 # ParentKotlinJetpackProjects
-Parent Repository for Jetpack Projects
+Parent Repository for Jetpack Compose Projects
 
 <ul>
   <li>
